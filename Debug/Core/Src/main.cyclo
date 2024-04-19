@@ -1,0 +1,8 @@
+../Core/Src/main.c:73:5:main	1
+../Core/Src/main.c:122:6:SystemClock_Config	3
+../Core/Src/main.c:159:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:192:13:MX_GPIO_Init	1
+../Core/Src/main.c:222:13:Usart_Task	1
+../Core/Src/main.c:252:13:LED_Task	5
+../Core/Src/main.c:269:13:Switch_Task	3
+../Core/Src/main.c:292:6:Error_Handler	1

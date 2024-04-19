@@ -1,0 +1,4 @@
+D:/FREERTOSF103/portable/heap_1.c:71:8:pvPortMalloc	7
+D:/FREERTOSF103/portable/heap_1.c:130:6:vPortFree	1
+D:/FREERTOSF103/portable/heap_1.c:142:6:vPortInitialiseBlocks	1
+D:/FREERTOSF103/portable/heap_1.c:149:8:xPortGetFreeHeapSize	1
